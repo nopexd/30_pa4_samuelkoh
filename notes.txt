@@ -18,3 +18,12 @@ Integration Testing is conducted by ?
 This kind of testing typically starts as soon as there are two classes to test and continues until the entire system is complete.  It may fall under both white box testing and black box testing. 
 
 
+Updated by 29_DamienNg
+
+> System testing is executing the software in its final configuration with all integration enabled.
+> System testing is done by end users and developers
+> It can be both types
+
+> Acceptance testing the final test before the customer signs-off and accepts it.
+> Acceptance testing is done by end-users
+> It is blackbox type
